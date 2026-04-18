@@ -1,0 +1,15 @@
+* text=auto eol=lf
+
+# Keep known binary assets as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.mp4 binary
+*.onnx binary
+*.data binary
+*.pth binary
+*.bin binary
+*.safetensors binary
+*.engine binary

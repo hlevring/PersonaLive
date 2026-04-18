@@ -1,0 +1,19 @@
+# Cursor IDE
+.cursor/
+
+# Python venv
+.venv/
+
+# Results / outputs
+results/
+
+# Pretrained model weights
+pretrained_weights/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
